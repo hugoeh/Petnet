@@ -114,7 +114,7 @@ html, body{margin:0;padding:0;}
  */
 
 .ir {
-    background-color: transparent;
+    background-color: blue;
     border: 0;
     overflow: hidden;
     /* IE 6/7 fallback */
